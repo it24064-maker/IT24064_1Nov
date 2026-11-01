@@ -1,3 +1,9 @@
+
+**Name:_Most. Roksana Akter
+ student ID-IT-24064
+ university email: it24064@mbstu.ac.bd**
+
+
 **Task 1 result image** 
 <img width="981" height="1057" alt="Screenshot 2026-11-01 113154" src="https://github.com/user-attachments/assets/eecdf31f-e7d0-4710-9de3-38bd7d4ff5e2" />
 **Task 2_PrimeApp** 
